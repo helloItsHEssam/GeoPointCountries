@@ -1,0 +1,1385 @@
+[
+    {
+      "location": "Bermuda",
+      "country_code": "bm",
+      "latitude": 32.3078,
+      "longitude": -64.7505      
+    },
+    {
+      "location": "Slovakia",
+      "country_code": "sk",
+      "latitude": 48.669026,
+      "longitude": 19.699024      
+    },
+    {
+      "location": "Faroe Islands",
+      "country_code": "fo",
+      "latitude": 61.89263500000001,
+      "longitude": -6.9118061      
+    },
+    {
+      "location": "Burkina Faso",
+      "country_code": "bf",
+      "latitude": 12.238333,
+      "longitude": -1.561593      
+    },
+    {
+      "location": "China",
+      "country_code": "cn",
+      "latitude": 35.86166,
+      "longitude": 104.195397
+    },
+    {
+      "location": "Turkey",
+      "country_code": "tr",
+      "latitude": 38.963745,
+      "longitude": 35.243322
+    },
+    {
+      "location": "Bangladesh",
+      "country_code": "bd",
+      "latitude": 23.684994,
+      "longitude": 90.356331
+    },
+    {
+      "location": "Tunisia",
+      "country_code": "tn",
+      "latitude": 33.886917,
+      "longitude": 9.537499
+    },
+    {
+      "location": "Montenegro",
+      "country_code": "me",
+      "latitude": 42.708678,
+      "longitude": 19.37439
+    },
+    {
+      "location": "Canada",
+      "country_code": "ca",
+      "latitude": 56.130366,
+      "longitude": -106.346771
+    },
+    {
+      "location": "Trinidad and Tobago",
+      "country_code": "tt",
+      "latitude": 10.691803,
+      "longitude": -61.222503
+    },
+    {
+      "location": "Brunei",
+      "country_code": "bn",
+      "latitude": 4.535277,
+      "longitude": 114.727669
+    },
+    {
+      "location": "Sierra Leone",
+      "country_code": "sl",
+      "latitude": 8.460555,
+      "longitude": -11.779889
+    },
+    {
+      "location": "Ethiopia",
+      "country_code": "et",
+      "latitude": 9.145000000000001,
+      "longitude": 40.489673
+    },
+    {
+      "location": "Bahamas",
+      "country_code": "bs",
+      "latitude": 25.03428,
+      "longitude": -77.39627999999999
+    },
+    {
+      "location": "Sao Tome and Principe",
+      "country_code": "st",
+      "latitude": 0.18636,
+      "longitude": 6.613080999999999
+    },
+    {
+      "location": "Philippines",
+      "country_code": "ph",
+      "latitude": 12.879721,
+      "longitude": 121.774017
+    },
+    {
+      "location": "Mayotte",
+      "country_code": "yt",
+      "latitude": -12.8275,
+      "longitude": 45.166244
+    },
+    {
+      "location": "Zimbabwe",
+      "country_code": "zw",
+      "latitude": -19.015438,
+      "longitude": 29.154857
+    },
+    {
+      "location": "Germany",
+      "country_code": "de",
+      "latitude": 51.165691,
+      "longitude": 10.451526
+    },
+    {
+      "location": "Bhutan",
+      "country_code": "bt",
+      "latitude": 27.514162,
+      "longitude": 90.433601
+    },
+    {
+      "location": "Cayman Islands",
+      "country_code": "ky",
+      "latitude": 19.3133,
+      "longitude": -81.2546
+    },
+    {
+      "location": "Samoa",
+      "country_code": "ws",
+      "latitude": -13.759029,
+      "longitude": -172.104629
+    },
+    {
+      "location": "India",
+      "country_code": "in",
+      "latitude": 20.593684,
+      "longitude": 78.96288
+    },
+    {
+      "location": "Gibraltar",
+      "country_code": "gi",
+      "latitude": 36.140751,
+      "longitude": -5.353585
+    },
+    {
+      "location": "Cambodia",
+      "country_code": "kh",
+      "latitude": 12.565679,
+      "longitude": 104.990963
+    },
+    {
+      "location": "Solomon Islands",
+      "country_code": "sb",
+      "latitude": -9.64571,
+      "longitude": 160.156194
+    },
+    {
+      "location": "Vanuatu",
+      "country_code": "vu",
+      "latitude": -15.376706,
+      "longitude": 166.959158
+    },
+    {
+      "location": "Denmark",
+      "country_code": "dk",
+      "latitude": 56.26392,
+      "longitude": 9.501785
+    },
+    {
+      "location": "Greece",
+      "country_code": "gr",
+      "latitude": 39.074208,
+      "longitude": 21.824312
+    },
+    {
+      "location": "Aruba",
+      "country_code": "aw",
+      "latitude": 12.52111,
+      "longitude": -69.968338
+    },
+    {
+      "location": "Brazil",
+      "country_code": "br",
+      "latitude": -14.235004,
+      "longitude": -51.92528
+    },
+    {
+      "location": "South Sudan",
+      "country_code": "ss",
+      "latitude": 6.876991899999999,
+      "longitude": 31.3069788
+    },
+    {
+      "location": "Marshall Islands",
+      "country_code": "mh",
+      "latitude": 7.131474,
+      "longitude": 171.184478
+    },
+    {
+      "location": "Ghana",
+      "country_code": "gh",
+      "latitude": 7.946527,
+      "longitude": -1.023194
+    },
+    {
+      "location": "Réunion",
+      "country_code": "re",
+      "latitude": -21.115141,
+      "longitude": 55.536384
+    },
+    {
+      "location": "Russia",
+      "country_code": "ru",
+      "latitude": 61.52401,
+      "longitude": 105.318756
+    },
+    {
+      "location": "Nepal",
+      "country_code": "np",
+      "latitude": 28.394857,
+      "longitude": 84.12400799999999
+    },
+    {
+      "location": "Ecuador",
+      "country_code": "ec",
+      "latitude": -1.831239,
+      "longitude": -78.18340599999999
+    },
+    {
+      "location": "Tajikistan",
+      "country_code": "tj",
+      "latitude": 38.861034,
+      "longitude": 71.276093
+    },
+    {
+      "location": "Cape Verde",
+      "country_code": "cv",
+      "latitude": 16.5388,
+      "longitude": -23.0418
+    },
+    {
+      "location": "Monaco",
+      "country_code": "mc",
+      "latitude": 43.73841760000001,
+      "longitude": 7.424615799999999
+    },
+    {
+      "location": "Martinique",
+      "country_code": "mq",
+      "latitude": 14.641528,
+      "longitude": -61.024174
+    },
+    {
+      "location": "Spain",
+      "country_code": "es",
+      "latitude": 40.46366700000001,
+      "longitude": -3.74922
+    },
+    {
+      "location": "Argentina",
+      "country_code": "ar",
+      "latitude": -38.416097,
+      "longitude": -63.61667199999999
+    },
+    {
+      "location": "Peru",
+      "country_code": "pe",
+      "latitude": -9.189967,
+      "longitude": -75.015152
+    },
+    {
+      "location": "Iraq",
+      "country_code": "iq",
+      "latitude": 33.223191,
+      "longitude": 43.679291
+    },
+    {
+      "location": "Austria",
+      "country_code": "at",
+      "latitude": 47.516231,
+      "longitude": 14.550072
+    },
+    {
+      "location": "Sweden",
+      "country_code": "se",
+      "latitude": 60.12816100000001,
+      "longitude": 18.643501
+    },
+    {
+      "location": "Hungary",
+      "country_code": "hu",
+      "latitude": 47.162494,
+      "longitude": 19.5033041
+    },
+    {
+      "location": "Oman",
+      "country_code": "om",
+      "latitude": 21.4735329,
+      "longitude": 55.975413
+    },
+    {
+      "location": "Moldova",
+      "country_code": "md",
+      "latitude": 47.411631,
+      "longitude": 28.369885
+    },
+    {
+      "location": "Uzbekistan",
+      "country_code": "uz",
+      "latitude": 41.377491,
+      "longitude": 64.585262
+    },
+    {
+      "location": "Niger",
+      "country_code": "ne",
+      "latitude": 17.607789,
+      "longitude": 8.081666
+    },
+    {
+      "location": "Northern Cyprus",
+      "country_code": "00",
+      "latitude": 35.2480359,
+      "longitude": 33.6577243
+    },
+    {
+      "location": "Artsakh",
+      "country_code": "12",
+      "latitude": 39.796249,
+      "longitude": 46.6550799
+      
+    },
+    {
+      "location": "Barbados",
+      "country_code": "bb",
+      "latitude": 13.193887,
+      "longitude": -59.543198
+    },
+    {
+      "location": "Seychelles",
+      "country_code": "sc",
+      "latitude": -4.679574,
+      "longitude": 55.491977
+    },
+    {
+      "location": "Gambia",
+      "country_code": "gm",
+      "latitude": 13.443182,
+      "longitude": -15.310139
+    },
+    {
+      "location": "Saint Martin",
+      "country_code": "mf",
+      "latitude": 18.0708298,
+      "longitude": -63.0500809
+    },
+    {
+      "location": "St. Barth",
+      "country_code": "bl",
+      "latitude": 17.9,
+      "longitude": -62.833333
+    },
+    {
+      "location": "St. Vincent Grenadines",
+      "country_code": "vc",
+      "latitude": 12.984305,
+      "longitude": -61.287228
+    },
+    {
+      "location": "Indonesia",
+      "country_code": "id",
+      "latitude": -0.789275,
+      "longitude": 113.921327
+    },
+    {
+      "location": "Saudi Arabia",
+      "country_code": "sa",
+      "latitude": 23.885942,
+      "longitude": 45.079162
+    },
+    {
+      "location": "Egypt",
+      "country_code": "eg",
+      "latitude": 26.820553,
+      "longitude": 30.802498
+    },
+    {
+      "location": "Dominica",
+      "country_code": "dm",
+      "latitude": 15.414999,
+      "longitude": -61.37097600000001
+    },
+    {
+      "location": "Tanzania",
+      "country_code": "tz",
+      "latitude": -6.369028,
+      "longitude": 34.888822
+    },
+    {
+      "location": "French Guiana",
+      "country_code": "gf",
+      "latitude": 3.933889,
+      "longitude": -53.125782
+    },
+    {
+      "location": "Guadeloupe",
+      "country_code": "gp",
+      "latitude": 16.265,
+      "longitude": -61.55099999999999
+    },
+    {
+      "location": "Italy",
+      "country_code": "it",
+      "latitude": 41.87194,
+      "longitude": 12.56738
+    },
+    {
+      "location": "Belgium",
+      "country_code": "be",
+      "latitude": 50.503887,
+      "longitude": 4.469936
+    },
+    {
+      "location": "United Arab Emirates",
+      "country_code": "ae",
+      "latitude": 23.424076,
+      "longitude": 53.847818
+    },
+    {
+      "location": "Panama",
+      "country_code": "pa",
+      "latitude": 8.537981,
+      "longitude": -80.782127
+    },
+    {
+      "location": "Belarus",
+      "country_code": "by",
+      "latitude": 53.709807,
+      "longitude": 27.953389
+    },
+    {
+      "location": "French Polynesia",
+      "country_code": "pf",
+      "latitude": -17.679742,
+      "longitude": -149.406843
+    },
+    {
+      "location": "Belize",
+      "country_code": "bz",
+      "latitude": 17.189877,
+      "longitude": -88.49765
+    },
+    {
+      "location": "Curaçao",
+      "country_code": "cw",
+      "latitude": 12.16957,
+      "longitude": -68.99002
+    },
+    {
+      "location": "Liechtenstein",
+      "country_code": "li",
+      "latitude": 47.166,
+      "longitude": 9.555373
+    },
+    {
+      "location": "Sint Maarten",
+      "country_code": "sx",
+      "latitude": 18.04248,
+      "longitude": -63.05483
+    },
+    {
+      "location": "Saint Lucia",
+      "country_code": "lc",
+      "latitude": 13.909444,
+      "longitude": -60.978893
+    },
+    {
+      "location": "Northern Mariana Islands ",
+      "country_code": "mp",
+      "latitude": 15.0979,
+      "longitude": 145.6739
+    },
+    {
+      "location": "Macau",
+      "country_code": "mo",
+      "latitude": 22.198745,
+      "longitude": 113.543873
+    },
+    {
+      "location": "Grenada",
+      "country_code": "gd",
+      "latitude": 12.1165,
+      "longitude": -61.67899999999999
+    },
+    {
+      "location": "East Timor",
+      "country_code": "tl",
+      "latitude": -8.874217,
+      "longitude": 125.727539
+    },
+    {
+      "location": "New Caledonia",
+      "country_code": "nc",
+      "latitude": -20.904305,
+      "longitude": 165.618042
+    },
+    {
+      "location": "Mauritania",
+      "country_code": "mr",
+      "latitude": 21.00789,
+      "longitude": -10.940835
+    },
+    {
+      "location": "Saint Kitts and Nevis",
+      "country_code": "kn",
+      "latitude": 17.357822,
+      "longitude": -62.782998
+    },
+    {
+      "location": "United States",
+      "country_code": "us",
+      "latitude": 37.09024,
+      "longitude": -95.712891
+    },
+    {
+      "location": "Suriname",
+      "country_code": "sr",
+      "latitude": 3.919305,
+      "longitude": -56.027783
+    },
+    {
+      "location": "Togo",
+      "country_code": "tg",
+      "latitude": 8.6195,
+      "longitude": 0.8248
+    },
+    {
+      "location": "Greenland",
+      "country_code": "gl",
+      "latitude": 71.706936,
+      "longitude": -42.604303
+    },
+    {
+      "location": "Saint Pierre and Miquelon",
+      "country_code": "pm",
+      "latitude": 46.8852,
+      "longitude": -56.3159
+    },
+    {
+      "location": "Montserrat",
+      "country_code": "ms",
+      "latitude": 16.742498,
+      "longitude": -62.187366
+    },
+    {
+      "location": "USS Theodore Roosevelt",
+      "country_code": "09",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "location": "Turks and Caicos Islands",
+      "country_code": "tc",
+      "latitude": 21.694025,
+      "longitude": -71.797928
+    },
+    {
+      "location": "Diamond Princess",
+      "country_code": "01",
+      "latitude": 40.86429589999999,
+      "longitude": -73.9614914
+    },
+    {
+      "location": "Papua New Guinea",
+      "country_code": "pg",
+      "latitude": -6.314992999999999,
+      "longitude": 143.95555
+    },
+    {
+      "location": "Antigua and Barbuda",
+      "country_code": "ag",
+      "latitude": 17.060816,
+      "longitude": -61.796428
+    },
+    {
+      "location": "British Virgin Islands",
+      "country_code": "vg",
+      "latitude": 18.420695,
+      "longitude": -64.639968
+    },
+    {
+      "location": "Laos",
+      "country_code": "la",
+      "latitude": 19.85627,
+      "longitude": 102.495496
+    },
+    {
+      "location": "MS Zaandam",
+      "country_code": "03",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "location": "Poland",
+      "country_code": "pl",
+      "latitude": 51.919438,
+      "longitude": 19.145136
+    },
+    {
+      "location": "Romania",
+      "country_code": "ro",
+      "latitude": 45.943161,
+      "longitude": 24.96676
+    },
+    {
+      "location": "Israel",
+      "country_code": "il",
+      "latitude": 31.046051,
+      "longitude": 34.851612
+    },
+    {
+      "location": "Portugal",
+      "country_code": "pt",
+      "latitude": 39.39987199999999,
+      "longitude": -8.224454
+    },
+    {
+      "location": "Dominican Republic",
+      "country_code": "do",
+      "latitude": 18.735693,
+      "longitude": -70.162651
+    },
+    {
+      "location": "Kuwait",
+      "country_code": "kw",
+      "latitude": 29.31166,
+      "longitude": 47.481766
+    },
+    {
+      "location": "Kazakhstan",
+      "country_code": "kz",
+      "latitude": 48.019573,
+      "longitude": 66.923684
+    },
+    {
+      "location": "Guatemala",
+      "country_code": "gt",
+      "latitude": 15.783471,
+      "longitude": -90.23075899999999
+    },
+    {
+      "location": "Nigeria",
+      "country_code": "ng",
+      "latitude": 9.081999,
+      "longitude": 8.675277
+    },
+    {
+      "location": "Sri Lanka",
+      "country_code": "lk",
+      "latitude": 7.873053999999999,
+      "longitude": 80.77179699999999
+    },
+    {
+      "location": "Estonia",
+      "country_code": "ee",
+      "latitude": 58.595272,
+      "longitude": 25.0136071
+    },
+    {
+      "location": "France",
+      "country_code": "fr",
+      "latitude": 46.227638,
+      "longitude": 2.213749
+    },
+    {
+      "location": "Vatican City",
+      "country_code": "va",
+      "latitude": 41.902916,
+      "longitude": 12.453389
+    },
+    {
+      "location": "United Kingdom",
+      "country_code": "gb",
+      "latitude": 55.378051,
+      "longitude": -3.435973
+    },
+    {
+      "location": "Colombia",
+      "country_code": "co",
+      "latitude": 4.570868,
+      "longitude": -74.297333
+    },
+    {
+      "location": "Falkland Islands",
+      "country_code": "fk",
+      "latitude": -51.796253,
+      "longitude": -59.523613
+    },
+    {
+      "location": "Sint Eustatius",
+      "country_code": "bq",
+      "latitude": 17.4890306,
+      "longitude": -62.973555
+    },
+    {
+      "location": "Coral Princess",
+      "country_code": "11",
+      "latitude": 26.648165,
+      "longitude": -82.03541899999999
+    },
+    {
+      "location": "Anguilla",
+      "country_code": "ai",
+      "latitude": 18.220554,
+      "longitude": -63.06861499999999
+    },
+    {
+      "location": "Mexico",
+      "country_code": "mx",
+      "latitude": 23.634501,
+      "longitude": -102.552784
+    },
+    {
+      "location": "Iran",
+      "country_code": "ir",
+      "latitude": 32.427908,
+      "longitude": 53.688046
+    },
+    {
+      "location": "South Africa",
+      "country_code": "za",
+      "latitude": -30.559482,
+      "longitude": 22.937506
+    },
+    {
+      "location": "Ukraine",
+      "country_code": "ua",
+      "latitude": 48.379433,
+      "longitude": 31.1655799
+    },
+    {
+      "location": "Chile",
+      "country_code": "cl",
+      "latitude": -35.675147,
+      "longitude": -71.542969
+    },
+    {
+      "location": "Netherlands",
+      "country_code": "nl",
+      "latitude": 52.132633,
+      "longitude": 5.291265999999999
+    },
+    {
+      "location": "Pakistan",
+      "country_code": "pk",
+      "latitude": 30.375321,
+      "longitude": 69.34511599999999
+    },
+    {
+      "location": "Bolivia",
+      "country_code": "bo",
+      "latitude": -16.290154,
+      "longitude": -63.58865299999999
+    },
+    {
+      "location": "Armenia",
+      "country_code": "am",
+      "latitude": 40.069099,
+      "longitude": 45.038189
+    },
+    {
+      "location": "Qatar",
+      "country_code": "qa",
+      "latitude": 25.354826,
+      "longitude": 51.183884
+    },
+    {
+      "location": "Bahrain",
+      "country_code": "bh",
+      "latitude": 26.0667,
+      "longitude": 50.5577
+    },
+    {
+      "location": "Singapore",
+      "country_code": "sg",
+      "latitude": 1.352083,
+      "longitude": 103.819836
+    },
+    {
+      "location": "Afghanistan",
+      "country_code": "af",
+      "latitude": 33.93911,
+      "longitude": 67.70995
+    },
+    {
+      "location": "Abkhazia",
+      "country_code": "06",
+      "latitude": 43.0015544,
+      "longitude": 41.023407
+    },
+    {
+      "location": "Fiji",
+      "country_code": "fj",
+      "latitude": -17.713371,
+      "longitude": 178.065032
+    },
+    {
+      "location": "Czech Republic",
+      "country_code": "cz",
+      "latitude": 49.81749199999999,
+      "longitude": 15.472962
+    },
+    {
+      "location": "Costa Rica",
+      "country_code": "cr",
+      "latitude": 9.748916999999999,
+      "longitude": -83.753428
+    },
+    {
+      "location": "Kyrgyzstan",
+      "country_code": "kg",
+      "latitude": 41.20438,
+      "longitude": 74.766098
+    },
+    {
+      "location": "Central African Republic",
+      "country_code": "cf",
+      "latitude": 6.611110999999999,
+      "longitude": 20.939444
+    },
+    {
+      "location": "Luxembourg",
+      "country_code": "lu",
+      "latitude": 49.815273,
+      "longitude": 6.129582999999999
+    },
+    {
+      "location": "Madagascar",
+      "country_code": "mg",
+      "latitude": -18.766947,
+      "longitude": 46.869107
+    },
+    {
+      "location": "Senegal",
+      "country_code": "sn",
+      "latitude": 14.497401,
+      "longitude": -14.452362
+    },
+    {
+      "location": "Morocco",
+      "country_code": "ma",
+      "latitude": 31.791702,
+      "longitude": -7.092619999999999
+    },
+    {
+      "location": "Azerbaijan",
+      "country_code": "az",
+      "latitude": 40.143105,
+      "longitude": 47.576927
+    },
+    {
+      "location": "Ireland",
+      "country_code": "ie",
+      "latitude": 53.1423672,
+      "longitude": -7.692053599999999
+    },
+    {
+      "location": "South Korea",
+      "country_code": "kr",
+      "latitude": 35.907757,
+      "longitude": 127.766922
+    },
+    {
+      "location": "Australia",
+      "country_code": "au",
+      "latitude": -25.274398,
+      "longitude": 133.775136
+    },
+    {
+      "location": "Malaysia",
+      "country_code": "my",
+      "latitude": 4.210484,
+      "longitude": 101.975766
+    },
+    {
+      "location": "DR Congo",
+      "country_code": "cd",
+      "latitude": -4.038333,
+      "longitude": 21.758664
+    },
+    {
+      "location": "Switzerland",
+      "country_code": "ch",
+      "latitude": 46.818188,
+      "longitude": 8.227511999999999
+    },
+    {
+      "location": "Serbia",
+      "country_code": "rs",
+      "latitude": 44.016521,
+      "longitude": 21.005859
+    },
+    {
+      "location": "Guinea",
+      "country_code": "gn",
+      "latitude": 9.945587,
+      "longitude": -9.696645
+    },
+    {
+      "location": "North Macedonia",
+      "country_code": "mk",
+      "latitude": 41.608635,
+      "longitude": 21.745275
+    },
+    {
+      "location": "Venezuela",
+      "country_code": "ve",
+      "latitude": 6.42375,
+      "longitude": -66.58973
+    },
+    {
+      "location": "Haiti",
+      "country_code": "ht",
+      "latitude": 18.971187,
+      "longitude": -72.285215
+    },
+    {
+      "location": "Finland",
+      "country_code": "fi",
+      "latitude": 61.92410999999999,
+      "longitude": 25.7481511
+    },
+    {
+      "location": "Japan",
+      "country_code": "jp",
+      "latitude": 36.204824,
+      "longitude": 138.252924
+    },
+    {
+      "location": "Bosnia and Herzegovina",
+      "country_code": "ba",
+      "latitude": 43.915886,
+      "longitude": 17.679076
+    },
+    {
+      "location": "Kosovo",
+      "country_code": "xk",
+      "latitude": 42.6026359,
+      "longitude": 20.902977
+    },
+    {
+      "location": "Albania",
+      "country_code": "al",
+      "latitude": 41.153332,
+      "longitude": 20.168331
+    },
+    {
+      "location": "Cameroon",
+      "country_code": "cm",
+      "latitude": 7.369721999999999,
+      "longitude": 12.354722
+    },
+    {
+      "location": "Ivory Coast",
+      "country_code": "ci",
+      "latitude": 7.539988999999999,
+      "longitude": -5.547079999999999
+    },
+    {
+      "location": "Gabon",
+      "country_code": "ga",
+      "latitude": -0.803689,
+      "longitude": 11.609444
+    },
+    {
+      "location": "Palestine",
+      "country_code": "ps",
+      "latitude": 31.952162,
+      "longitude": 35.233154
+    },
+    {
+      "location": "Kenya",
+      "country_code": "ke",
+      "latitude": -0.023559,
+      "longitude": 37.906193
+    },
+    {
+      "location": "Bulgaria",
+      "country_code": "bg",
+      "latitude": 42.733883,
+      "longitude": 25.48583
+    },
+    {
+      "location": "Algeria",
+      "country_code": "dz",
+      "latitude": 28.033886,
+      "longitude": 1.659626
+    },
+    {
+      "location": "Djibouti",
+      "country_code": "dj",
+      "latitude": 11.825138,
+      "longitude": 42.590275
+      
+    },
+    {
+      "location": "Norway",
+      "country_code": "no",
+      "latitude": 60.47202399999999,
+      "longitude": 8.468945999999999
+    },
+    {
+      "location": "Sudan",
+      "country_code": "sd",
+      "latitude": 12.862807,
+      "longitude": 30.217636
+    },
+    {
+      "location": "Croatia",
+      "country_code": "hr",
+      "latitude": 45.1,
+      "longitude": 15.2000001
+    },
+    {
+      "location": "Lithuania",
+      "country_code": "lt",
+      "latitude": 55.169438,
+      "longitude": 23.881275
+    },
+    {
+      "location": "Jordan",
+      "country_code": "jo",
+      "latitude": 30.585164,
+      "longitude": 36.238414
+    },
+    {
+      "location": "Maldives",
+      "country_code": "mv",
+      "latitude": 3.202778,
+      "longitude": 73.22068
+    },
+    {
+      "location": "Cyprus",
+      "country_code": "cy",
+      "latitude": 35.126413,
+      "longitude": 33.429859
+    },
+    {
+      "location": "Congo",
+      "country_code": "cg",
+      "latitude": -4.038333,
+      "longitude": 21.758664
+    },
+    {
+      "location": "Benin",
+      "country_code": "bj",
+      "latitude": 9.30769,
+      "longitude": 2.315834
+    },
+    {
+      "location": "Liberia",
+      "country_code": "lr",
+      "latitude": 6.428055,
+      "longitude": -9.429499000000002
+    },
+    {
+      "location": "Guinea-Bissau",
+      "country_code": "gw",
+      "latitude": 11.803749,
+      "longitude": -15.180413
+    },
+    {
+      "location": "Georgia",
+      "country_code": "ge",
+      "latitude": 42.3154,
+      "longitude": 43.3569
+    },
+    {
+      "location": "Uganda",
+      "country_code": "ug",
+      "latitude": 1.373333,
+      "longitude": 32.290275
+    },
+    {
+      "location": "Hong Kong",
+      "country_code": "hk",
+      "latitude": 22.3193039,
+      "longitude": 114.1693611
+    },
+    {
+      "location": "Eswatini",
+      "country_code": "sz",
+      "latitude": -26.522503,
+      "longitude": 31.465866
+    },
+    {
+      "location": "Iceland",
+      "country_code": "is",
+      "latitude": 64.963051,
+      "longitude": -19.020835
+    },
+    {
+      "location": "Latvia",
+      "country_code": "lv",
+      "latitude": 56.879635,
+      "longitude": 24.603189
+    },
+    {
+      "location": "Jamaica",
+      "country_code": "jm",
+      "latitude": 18.109581,
+      "longitude": -77.297508
+    },
+    {
+      "location": "Equatorial Guinea",
+      "country_code": "gq",
+      "latitude": 1.650801,
+      "longitude": 10.267895
+    },
+    {
+      "location": "Zambia",
+      "country_code": "zm",
+      "latitude": -13.133897,
+      "longitude": 27.849332
+    },
+    {
+      "location": "Malta",
+      "country_code": "mt",
+      "latitude": 35.937496,
+      "longitude": 14.375416
+    },
+    {
+      "location": "Somalia",
+      "country_code": "so",
+      "latitude": 5.152149,
+      "longitude": 46.199616
+    },
+    {
+      "location": "Angola",
+      "country_code": "ao",
+      "latitude": -11.202692,
+      "longitude": 17.873887
+    },
+    {
+      "location": "Uruguay",
+      "country_code": "uy",
+      "latitude": -32.522779,
+      "longitude": -55.765835
+    },
+    {
+      "location": "Cuba",
+      "country_code": "cu",
+      "latitude": 21.521757,
+      "longitude": -77.781167
+    },
+    {
+      "location": "Malawi",
+      "country_code": "mw",
+      "latitude": -13.254308,
+      "longitude": 34.301525
+    },
+    {
+      "location": "Yemen",
+      "country_code": "ye",
+      "latitude": 15.552727,
+      "longitude": 48.516388
+    },
+    {
+      "location": "Rwanda",
+      "country_code": "rw",
+      "latitude": -1.940278,
+      "longitude": 29.873888
+    },
+    {
+      "location": "Mali",
+      "country_code": "ml",
+      "latitude": 17.570692,
+      "longitude": -3.996166
+    },
+    {
+      "location": "New Zealand",
+      "country_code": "nz",
+      "latitude": -40.900557,
+      "longitude": 174.885971
+      
+    },
+    {
+      "location": "Lebanon",
+      "country_code": "lb",
+      "latitude": 33.854721,
+      "longitude": 35.862285
+    },
+    {
+      "location": "Chad",
+      "country_code": "td",
+      "latitude": 15.454166,
+      "longitude": 18.732207
+    },
+    {
+      "location": "Paraguay",
+      "country_code": "py",
+      "latitude": -23.442503,
+      "longitude": -58.443832
+    },
+    {
+      "location": "Nicaragua",
+      "country_code": "ni",
+      "latitude": 12.865416,
+      "longitude": -85.207229
+    },
+    {
+      "location": "Libya",
+      "country_code": "ly",
+      "latitude": 26.3351,
+      "longitude": 17.228331
+    },
+    {
+      "location": "Namibia",
+      "country_code": "na",
+      "latitude": -22.95764,
+      "longitude": 18.49041
+    },
+    {
+      "location": "Thailand",
+      "country_code": "th",
+      "latitude": 15.870032,
+      "longitude": 100.992541
+    },
+    {
+      "location": "Andorra",
+      "country_code": "ad",
+      "latitude": 42.506285,
+      "longitude": 1.521801
+    },
+    {
+      "location": "San Marino",
+      "country_code": "sm",
+      "latitude": 43.94236,
+      "longitude": 12.457777
+    },
+    {
+      "location": "Slovenia",
+      "country_code": "si",
+      "latitude": 46.151241,
+      "longitude": 14.995463
+    },
+    {
+      "location": "Eritrea",
+      "country_code": "er",
+      "latitude": 15.179384,
+      "longitude": 39.782334
+    },
+    {
+      "location": "Honduras",
+      "country_code": "hn",
+      "latitude": 15.199999,
+      "longitude": -86.241905
+    },
+    {
+      "location": "Myanmar",
+      "country_code": "mm",
+      "latitude": 21.916221,
+      "longitude": 95.955974
+    },
+    {
+      "location": "Isle of Man",
+      "country_code": "im",
+      "latitude": 54.236107,
+      "longitude": -4.548056
+    },
+    {
+      "location": "Guernsey",
+      "country_code": "gg",
+      "latitude": 49.4481982,
+      "longitude": -2.58949
+    },
+    {
+      "location": "Puerto Rico",
+      "country_code": "pr",
+      "latitude": 18.220833,
+      "longitude": -66.590149
+    },
+    {
+      "location": "El Salvador",
+      "country_code": "sv",
+      "latitude": 13.794185,
+      "longitude": -88.89653
+    },
+    {
+      "location": "Mozambique",
+      "country_code": "mz",
+      "latitude": -18.665695,
+      "longitude": 35.529562
+    },
+    {
+      "location": "Botswana",
+      "country_code": "bw",
+      "latitude": -22.328474,
+      "longitude": 24.684866
+    },
+    {
+      "location": "Syria",
+      "country_code": "sy",
+      "latitude": 34.80207499999999,
+      "longitude": 38.996815
+    },
+    {
+      "location": "Guam",
+      "country_code": "gu",
+      "latitude": 13.444304,
+      "longitude": 144.793731
+    },
+    {
+      "location": "Guyana",
+      "country_code": "gy",
+      "latitude": 4.860416,
+      "longitude": -58.93018
+    },
+    {
+      "location": "Lesotho",
+      "country_code": "ls",
+      "latitude": -29.609988,
+      "longitude": 28.233608
+    },
+    {
+      "location": "U.S. Virgin Islands",
+      "country_code": "vi",
+      "latitude": 18.335765,
+      "longitude": -64.896335
+    },
+    {
+      "location": "Vietnam",
+      "country_code": "vn",
+      "latitude": 14.058324,
+      "longitude": 108.277199
+    },
+    {
+      "location": "Somaliland",
+      "country_code": "05",
+      "latitude": 9.411743399999999,
+      "longitude": 46.8252838
+    },
+    {
+      "location": "Jersey",
+      "country_code": "je",
+      "latitude": 49.214439,
+      "longitude": -2.13125
+    },
+    {
+      "location": "Mongolia",
+      "country_code": "mn",
+      "latitude": 46.862496,
+      "longitude": 103.846656
+    },
+    {
+      "location": "Taiwan",
+      "country_code": "tw",
+      "latitude": 23.69781,
+      "longitude": 120.960515
+    },
+    {
+      "location": "Comoros",
+      "country_code": "km",
+      "latitude": -11.6455,
+      "longitude": 43.3333
+    },
+    {
+      "location": "Burundi",
+      "country_code": "bi",
+      "latitude": -3.373056,
+      "longitude": 29.918886
+    },
+    {
+      "location": "Mauritius",
+      "country_code": "mu",
+      "latitude": -20.348404,
+      "longitude": 57.55215200000001
+    }
+]
